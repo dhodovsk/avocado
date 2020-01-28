@@ -1,6 +1,6 @@
 Avocado Documentation
 =====================
-
+test
 If you want to build the documentation yourself:
 
 1) Make sure you have the package ``python-sphinx`` installed. For Fedora::
